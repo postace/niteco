@@ -1,0 +1,11 @@
+Problem: Write a program implement this:
+- Input 10 (or more) number from keyboard.
+- Find the minimum number, maximum number
+- Find the number has largest frequent existence.
+- Sort ascending, descending
+For example:
+Input: 2 4 7 2 3 5 6 3 3 1
+Output:
+Min: 1, Max 7
+Most Freq: 3 (3 times)
+Sort ASC: 1 2 2 3 3 3 4 5 6 7
